@@ -307,13 +307,12 @@ File [`E-commerce Data.pbix`](file:///d:/DATA%20ANALYST/project/E-commerce%20Dat
 - **Executive Summary Dashboard**: Thẻ KPI tổng quan (Doanh thu, Đơn hàng, AOV, Tỷ lệ giao hàng thành công).
 - **Sales Performance**: Biểu đồ đường thể hiện xu hướng doanh thu qua từng tháng, biểu đồ cột phân tích doanh số theo danh mục sản phẩm.
 - **Customer & Geography Insights**: Bản đồ nhiệt phân bổ đơn hàng và khách hàng theo từng tiểu bang tại Brazil (`customer_state`).
-- **Logistics & Payment Behavior**: Biểu đồ phân rã thời gian giao hàng và cơ cấu thanh toán theo loại thẻ/hình thức thanh toán.
 
 ---
 
 ## 👤 Tác Giả & Liên Hệ
 
-- **Họ và tên**: Tinh Dang (Đặng Đức Tính)
+- **Họ và tên**: Đặng Đức Tĩnh
 - **Email**: [dangductinh1103@gmail.com](mailto:dangductinh1103@gmail.com)
 - **Lĩnh vực**: Data Analyst / Data Engineer / Business Intelligence
 
